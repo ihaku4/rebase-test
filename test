@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 line1
 =======
 different line1
@@ -8,6 +9,9 @@ different line1
 %%%%%
 conflicts resolved.
 =======
+=======
+;; changes in line1 ;;different line1 ;some change in line1
+>>>>>>> 4th commit from workspace2
 line2
 <<<<<<< HEAD
 >>>>>>> 2ed commit from workspace2
@@ -16,6 +20,13 @@ line2
 conflict resolved again..
 =======
 line3
+<<<<<<< HEAD
 >>>>>>> 3rd commit from workspace2
 
 resolving conflicts the 3rd time...
+=======
+line4
+>>>>>>> 4th commit from workspace2
+
+%%%%% 
+4th conflicting
