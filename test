@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 line1
+<<<<<<< HEAD
 =======
 different line1
 <<<<<<< HEAD
@@ -30,3 +31,8 @@ line4
 
 %%%%% 
 4th conflicting
+=======
+line2
+>>>>>>> 2ed commit from workspace1
+
+conffffffffffffff
