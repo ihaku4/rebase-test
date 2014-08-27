@@ -2,7 +2,14 @@
 line1
 =======
 different line1
+<<<<<<< HEAD
 >>>>>>> 1st commit from workspace2
 
 %%%%%
 conflicts resolved.
+=======
+line2
+>>>>>>> 2ed commit from workspace2
+
+%%%%%
+conflict resolved again..
