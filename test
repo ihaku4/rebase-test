@@ -9,7 +9,13 @@ different line1
 conflicts resolved.
 =======
 line2
+<<<<<<< HEAD
 >>>>>>> 2ed commit from workspace2
 
 %%%%%
 conflict resolved again..
+=======
+line3
+>>>>>>> 3rd commit from workspace2
+
+resolving conflicts the 3rd time...
